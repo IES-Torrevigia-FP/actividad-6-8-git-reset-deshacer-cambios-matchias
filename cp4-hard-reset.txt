@@ -1,0 +1,4 @@
+git reset --hard borra completamente los cambios staged y unstaged y deja el repositorio exactamente como el commit indicado. Es peligroso porque puedes perder trabajo si no está guardado.
+Paso 1: estructura inicial del proyecto.Paso 2: añade módulo de login.
+Paso 3: refactoriza código de login.
+Paso 4: añade módulo de registro de usuarios.

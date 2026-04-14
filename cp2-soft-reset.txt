@@ -1,0 +1,24 @@
+mathias@mathias-VirtualBox:~/Documentos/dev$ git status
+En la rama main
+Cambios a ser confirmados:
+  (usa "git restore --staged <archivo>..." para sacar del área de stage)
+        modificados:     progreso.txt
+
+Cambios no rastreados para el commit:
+  (usa "git add/rm <archivo>..." para actualizar a lo que se le va a hacer commit)
+  (usa "git restore <archivo>..." para descartar los cambios en el directorio de trabajo)
+        borrados:        historia.txt
+        borrados:        tarea.txt
+
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que será confirmado)
+        actividad-6-0-configura-tu-entorno-git-matchias/
+        actividad-6-2-ramas-con-git-matchias/
+        actividad-6-3-git-merge-y-resoluci-n-de-conflictos-matchias/
+        actividad-6-4-introduccion-a-git-rebase-matchias/
+        actividad-6-5-git-rebase-interactivo-matchias/
+        actividad-6-6-git-cherry-pick-matchias/
+        actividad-6-7-git-stash-guardar-cambios-temporales-matchias/
+        actividad-6-8-git-reset-deshacer-cambios-matchias/
+        cp1-historial-inicial.txt
+

@@ -1,0 +1,22 @@
+mathias@mathias-VirtualBox:~/Documentos/dev/actividad-6-8-git-reset-deshacer-cambios-matchias$ git reset HEAD progreso.txt
+Cambios fuera del área de stage tras el reset:
+M       progreso.txt
+mathias@mathias-VirtualBox:~/Documentos/dev/actividad-6-8-git-reset-deshacer-cambios-matchias$ git status
+En la rama main
+Tu rama y 'origin/main' han divergido,
+y tienen 1 y 1 commits diferentes cada una respectivamente.
+  (use "git pull" if you want to integrate the remote branch with yours)
+
+Cambios no rastreados para el commit:
+  (usa "git add <archivo>..." para actualizar lo que será confirmado)
+  (usa "git restore <archivo>..." para descartar los cambios en el directorio de trabajo)
+        modificados:     progreso.txt
+
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que será confirmado)
+        cp1-historial-inicial.txt
+        cp2-soft-reset.txt
+        cp3-mixed-reset.txt
+        cp4-hard-reset.txt
+
+        git reset HEAD sirve para quitar archivos del staging sin borrar los cambios del archivo. Es útil cuando has hecho git add por error y quieres volver atrás sin perder lo que has escrito.

@@ -1,0 +1,7 @@
+athias@mathias-VirtualBox:~/Documentos/dev$ git log --oneline
+aa80662 (HEAD -> main) Paso 4: registro de usuarios
+18d7188 fix cosas
+9601da4 Paso 2: módulo de login
+3a55c17 Paso 1: estructura inicial
+4ff8926 Define tarea principal de login
+34e2b8b Crea historia inicial en main
